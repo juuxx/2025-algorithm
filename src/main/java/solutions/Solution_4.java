@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Class05_5_4 {
+public class Solution_4 {
 
 	public static void main(String[] args) {
 		int[] answers = {1,2,3,4,5,1,2,3,4,5};

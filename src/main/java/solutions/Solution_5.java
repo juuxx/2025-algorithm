@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * 행렬의 곱셈
  */
-public class Class05_5_5 {
+public class Solution_5 {
 
 	public static void main(String[] args) {
 		int[][] arr1 = {{1, 4}, {3, 2}, {4, 1}};

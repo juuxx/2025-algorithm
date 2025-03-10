@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public class Class05_5_6 {
+public class Solution_6 {
 	public static void main(String[] args) {
 		int n = 5;
 		int[] stages = {2, 1, 2, 6, 2, 4, 3, 3};

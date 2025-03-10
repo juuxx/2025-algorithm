@@ -3,7 +3,7 @@ package solutions;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Class05_4 {
+public class Solution_0_warm_up {
 	public static void main(String[] args) {
 		int[] input = {1, -5, 2, 4, 3};
 		System.out.println(Arrays.toString(input));
